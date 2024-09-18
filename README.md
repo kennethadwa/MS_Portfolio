@@ -1,2 +1,2 @@
 # MS_Portfolio
-portfolio using reactjs
+my portfolio website using reactjs for my midterms in Multimedia Systems
